@@ -32,16 +32,62 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-20232A?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat&logo=html5)
+![C](https://img.shields.io/badge/C-20232A?style=flat&logo=c)
+![Java](https://img.shields.io/badge/Java-20232A?style=flat&logo=java)
+
+### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat&logo=mongodb)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=flat&logo=bootstrap)
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=flat&logo=figma)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-20232A?style=flat&logo=adobe-photoshop)
-![Ableton](https://img.shields.io/badge/Ableton-20232A?style=flat&logo=ableton)
+![Photoshop](https://img.shields.io/badge/Photoshop-20232A?style=flat&logo=adobe-photoshop)
+
+### 🧠 AI/ML
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-20232A?style=flat&logo=scikit-learn)
+![NLP](https://img.shields.io/badge/NLP-20232A?style=flat&logo=spacy)
+![Pandas](https://img.shields.io/badge/Pandas-20232A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-20232A?style=flat&logo=numpy)
+
+### 🧰 Backend / Database
+
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-20232A?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-20232A?style=flat&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat&logo=postgresql)
+
+### 🧪 Testing / DevOps
+
+![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-20232A?style=flat&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-20232A?style=flat&logo=netlify)
+![Jest](https://img.shields.io/badge/Jest-20232A?style=flat&logo=jest)
+
+### 🎨 Design & Creative Tools
+
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-20232A?style=flat&logo=adobe-xd)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-20232A?style=flat&logo=adobe-premiere-pro)
+![After Effects](https://img.shields.io/badge/After%20Effects-20232A?style=flat&logo=adobe-after-effects)
+![Blender](https://img.shields.io/badge/Blender-20232A?style=flat&logo=blender)
+![Ableton Live](https://img.shields.io/badge/Ableton-20232A?style=flat&logo=ableton)
+
+### 🛠 Others
+
+![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=flat&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=flat&logo=postman)
+![Jira](https://img.shields.io/badge/Jira-20232A?style=flat&logo=jira)
+![Notion](https://img.shields.io/badge/Notion-20232A?style=flat&logo=notion)
 
 ---
 
