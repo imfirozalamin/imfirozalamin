@@ -28,6 +28,7 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 [![Portfolio](https://img.shields.io/badge/Portfolio-imfro.vercel.app-black)](https://imfro.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-AXLR8-red?logo=instagram)](https://instagram.com/sexyaxey)
 [![Spotify](https://img.shields.io/badge/Spotify-AXLR8-green?logo=spotify)](https://open.spotify.com/artist/1PYXRYzhdzuunoa3plSsWJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FirozAlAmin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firozalamin/)
 
 ---
 
