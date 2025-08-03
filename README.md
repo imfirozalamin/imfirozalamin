@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-I'm a dedicated and versatile full stack developer with a passion for building efficient, scalable, and user-friendly web applications.  
+I'm a dedicated and versatile developer with a passion for building efficient, scalable, and user-friendly web applications.  
 My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind CSS**, **MongoDB**, and **Python**.
 
 💡 I’m currently working on creative agency tools and performance-focused web platforms.  
@@ -36,58 +36,61 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 
 ### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-20232A?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat&logo=html5)
-![C](https://img.shields.io/badge/C-20232A?style=flat&logo=c)
-![Java](https://img.shields.io/badge/Java-20232A?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ### 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=flat&logo=bootstrap)
-![Figma](https://img.shields.io/badge/Figma-20232A?style=flat&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-20232A?style=flat&logo=adobe-photoshop)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🧠 AI/ML
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-20232A?style=flat&logo=scikit-learn)
-![NLP](https://img.shields.io/badge/NLP-20232A?style=flat&logo=spacy)
-![Pandas](https://img.shields.io/badge/Pandas-20232A?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-20232A?style=flat&logo=numpy)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ### 🧰 Backend / Database
 
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-20232A?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-20232A?style=flat&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat&logo=postgresql)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🧪 Testing / DevOps
 
-![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-20232A?style=flat&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-20232A?style=flat&logo=netlify)
-![Jest](https://img.shields.io/badge/Jest-20232A?style=flat&logo=jest)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ### 🎨 Design & Creative Tools
 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-20232A?style=flat&logo=adobe-xd)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-20232A?style=flat&logo=adobe-premiere-pro)
-![After Effects](https://img.shields.io/badge/After%20Effects-20232A?style=flat&logo=adobe-after-effects)
-![Blender](https://img.shields.io/badge/Blender-20232A?style=flat&logo=blender)
-![Ableton Live](https://img.shields.io/badge/Ableton-20232A?style=flat&logo=ableton)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Ableton Live](https://img.shields.io/badge/Ableton-000000?style=flat-square&logo=ableton&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=can)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
 
-### 🛠 Others
+### ⚙️ Other Tools
 
-![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=flat&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-20232A?style=flat&logo=postman)
-![Jira](https://img.shields.io/badge/Jira-20232A?style=flat&logo=jira)
-![Notion](https://img.shields.io/badge/Notion-20232A?style=flat&logo=notion)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
 ---
 
