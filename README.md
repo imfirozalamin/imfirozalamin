@@ -152,7 +152,7 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 
 <br /><br />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=imfirozalamin&theme=radical&margin-w=15&margin-h=15&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="Trophies"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imfirozalamin&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
 </div>
 
