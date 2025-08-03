@@ -35,13 +35,13 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
-![Ableton](https://img.shields.io/badge/Ableton-000000?style=flat&logo=ableton)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat&logo=tailwind-css)
+![Figma](https://img.shields.io/badge/Figma-20232A?style=flat&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-20232A?style=flat&logo=adobe-photoshop)
+![Ableton](https://img.shields.io/badge/Ableton-20232A?style=flat&logo=ableton)
 
 ---
 
