@@ -55,12 +55,6 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
   </li>
   <br />
   <li>
-    🎟️ <strong><a href="https://quicktik.vercel.app/home" target="_blank">QuickTik - Movie Ticket Booking</a></strong><br>
-    <em>Real-time seat selection and booking interface.</em><br>
-    🛠️ <code>MERN</code> · <code>MongoDB</code> · <code>Bootstrap</code>
-  </li>
-  <br />
-  <li>
     🎧 <strong><a href="https://xtilestudio.com/" target="_blank">Xtile Studio – Music/Artist Showcase</a></strong><br>
     <em>Client site highlighting musicians and creative branding.</em><br>
     🛠️ <code>React</code> · <code>Tailwind CSS</code> · <code>Node.js</code>
