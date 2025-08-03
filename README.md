@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firoz (aka imfro)</h1>
+<h1 align="center">Hi 👋, I'm Firoz Al Amin</h1>
 <h3 align="center">Full Stack Developer | Designer | Creative Technologist</h3>
 
 <p align="center">
@@ -26,6 +26,7 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 
 [![Email](https://img.shields.io/badge/Email-firoz@xtilestudio.com-blue)](mailto:firoz@xtilestudio.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-imfro.vercel.app-black)](https://imfro.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-AXLR8-red?logo=instagram)](https://instagram.com/sexyaxey)
 [![Spotify](https://img.shields.io/badge/Spotify-AXLR8-green?logo=spotify)](https://open.spotify.com/artist/1PYXRYzhdzuunoa3plSsWJ)
 
 ---
