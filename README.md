@@ -145,9 +145,9 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=imfirozalamin&show_icons=true&theme=radical&hide_border=true&border_radius=12&card_width=450" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imfirozalamin&show_icons=true&theme=radical&hide_border=true&border_radius=12" alt="GitHub Stats"/>
 <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfirozalamin&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=6&card_width=450" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfirozalamin&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="Top Languages"/>
 <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imfirozalamin&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </div>
