@@ -147,14 +147,14 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=imfirozalamin&show_icons=true&theme=radical&hide_border=true&border_radius=12&card_width=450" alt="GitHub Stats" width="450"/>
+<!-- 
+  <img src="https://github-readme-stats.vercel.app/api?username=imfirozalamin&show_icons=true&theme=radical&hide_border=true&border_radius=12&card_width=450" alt="GitHub Stats" width="450"/> -->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfirozalamin&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=6&card_width=320" alt="Top Languages" width="340"/>
 
 <br /><br />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=imfirozalamin&theme=radical&margin-w=15&margin-h=15&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="Trophies"/>
+<!-- 
+  <img src="https://github-profile-trophy.vercel.app/?username=imfirozalamin&theme=radical&margin-w=15&margin-h=15&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="Trophies"/> -->
 
 </div>
 
