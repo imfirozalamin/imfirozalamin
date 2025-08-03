@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Developer | Designer | Creative Technologist</h3>
 
 <p align="center">
-  🎧 Developer by Day, Music Producer by Night  
+  🎧 Developer by Day, DJ by Night  
   <br />
-  🎨 Passionate about building sleek UIs, smart systems, and expressive designs  
+  🎨 Passionate about building sleek AI, sleek UIs, smart systems, and expressive designs  
   <br />
   🌍 Based in Guwahati, Assam, India
 </p>
@@ -68,7 +68,7 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
   `React · Tailwind · Node · Figma`
 
 - 🏫 **KVAMS – School Finance Platform**  
-  AI-enhanced financial dashboards and predictive budgeting.  
+  Smart financial dashboards and predictive budgeting.  
   `Next.js · MongoDB · Tailwind`
 
 - 💸 **MoneyBank – Personal Finance Tracker**  
@@ -87,9 +87,9 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imfro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imfro&layout=compact&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=imfro&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imfirozalamin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imfirozalamin&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=imfirozalamin&theme=radical)
 
 ---
 
