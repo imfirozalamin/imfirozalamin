@@ -88,7 +88,6 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
 ---
 
