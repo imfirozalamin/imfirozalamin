@@ -1,45 +1,96 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<p align="center">A passionate Full Stack Developer</p>
+<h1 align="center">Hi 👋, I'm Firoz (aka imfro)</h1>
+<h3 align="center">Full Stack Developer | Designer | Creative Technologist</h3>
+
+<p align="center">
+  🎧 Developer by Day, Music Producer by Night  
+  <br />
+  🎨 Passionate about building sleek UIs, smart systems, and expressive designs  
+  <br />
+  🌍 Based in Guwahati, Assam, India
+</p>
 
 ---
 
-## 🔥 About Me
+## 🧠 About Me
 
-👋 I'm [Your Name], a full stack developer with experience in React, Node.js, Express, AWS, and more.  
-I love building scalable web apps and solving real-world problems through code.
+I'm a dedicated and versatile full stack developer with a passion for building efficient, scalable, and user-friendly web applications.  
+My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind CSS**, **MongoDB**, and **Python**.
+
+💡 I’m currently working on creative agency tools and performance-focused web platforms.  
+🎓 BCA in Artificial Intelligence & Machine Learning (AIML) — Assam Downtown University  
+📢 I also create music, design brand assets, and develop interactive audio-visual content.
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-firoz@xtilestudio.com-blue)](mailto:firoz@xtilestudio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-imfro.vercel.app-black)](https://imfro.vercel.app)
+[![Spotify](https://img.shields.io/badge/Spotify-AXLR8-green?logo=spotify)](https://open.spotify.com/artist/1PYXRYzhdzuunoa3plSsWJ)
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
+![Ableton](https://img.shields.io/badge/Ableton-000000?style=flat&logo=ableton)
 
-<!-- Add more as needed -->
+---
+
+## 🚀 Featured Projects
+
+- 🎽 [**T'Miri - E-Commerce Store**](https://tmiri.vercel.app)  
+  Full-featured clothing brand site with cart, filters, and responsive UI.  
+  `React · Tailwind · Node · Express`
+
+- 🎟️ [**QuickTik - Movie Ticket Booking**](https://quicktik.vercel.app/home)  
+  Real-time seat selection & booking experience.  
+  `MERN Stack · MongoDB · Bootstrap`
+
+- 🎧 [**Xtile Studio – Music/Artist Showcase**](https://xtilestudio.com/)  
+  Music portfolio site with modern visuals and audio integration.  
+  `React · Tailwind · Node`
+
+- 💻 [**Pro.js – JS Practice Platform**](https://projs-five.vercel.app/)  
+  Live code editor with modules, challenges, and auto-complete.  
+  `Next.js · Tailwind · Figma`
+
+- 💼 [**Personal Portfolio**](https://imfro.vercel.app)  
+  Your creative dev/design playground with animated UI and project gallery.  
+  `React · Tailwind · Node · Figma`
+
+- 🏫 **KVAMS – School Finance Platform**  
+  AI-enhanced financial dashboards and predictive budgeting.  
+  `Next.js · MongoDB · Tailwind`
+
+- 💸 **MoneyBank – Personal Finance Tracker**  
+  Manage expenses, generate filtered reports, and track EMI/investments.  
+  `Next.js · Tailwind · TypeScript · jsPDF`
+
+---
+
+## 🎨 Creative Work & Music
+
+- 🎶 **AXLR8 – Music Projects**: [Spotify](https://open.spotify.com/artist/1PYXRYzhdzuunoa3plSsWJ)
+- 🖼️ **Design Posters**: Event branding, album covers, digital ads
+- 🎬 **Video/Visuals**: Adobe Suite, Premiere, After Effects
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imfro&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imfro&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=imfro&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies
+### 💬 Want the Markdown file?
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+Let me know and I’ll export the above into a downloadable `README.md` for you.
