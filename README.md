@@ -47,33 +47,49 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 
 ## 🚀 Featured Projects
 
-- 🎽 [**T'Miri - E-Commerce Store**](https://tmiri.vercel.app)  
-  Full-featured clothing brand site with cart, filters, and responsive UI.  
-  `React · Tailwind · Node · Express`
-
-- 🎟️ [**QuickTik - Movie Ticket Booking**](https://quicktik.vercel.app/home)  
-  Real-time seat selection & booking experience.  
-  `MERN Stack · MongoDB · Bootstrap`
-
-- 🎧 [**Xtile Studio – Music/Artist Showcase**](https://xtilestudio.com/)  
-  Music portfolio site with modern visuals and audio integration.  
-  `React · Tailwind · Node`
-
-- 💻 [**Pro.js – JS Practice Platform**](https://projs-five.vercel.app/)  
-  Live code editor with modules, challenges, and auto-complete.  
-  `Next.js · Tailwind · Figma`
-
-- 💼 [**Personal Portfolio**](https://imfro.vercel.app)  
-  Your creative dev/design playground with animated UI and project gallery.  
-  `React · Tailwind · Node · Figma`
-
-- 🏫 **KVAMS – School Finance Platform**  
-  Smart financial dashboards and predictive budgeting.  
-  `Next.js · MongoDB · Tailwind`
-
-- 💸 **MoneyBank – Personal Finance Tracker**  
-  Manage expenses, generate filtered reports, and track EMI/investments.  
-  `Next.js · Tailwind · TypeScript · jsPDF`
+<ul>
+  <li>
+    🎽 <strong><a href="https://tmiri.vercel.app" target="_blank">T'Miri - E-Commerce Store</a></strong><br>
+    <em>Full-featured clothing brand site with cart, filters, and responsive UI.</em><br>
+    🛠️ <code>React</code> · <code>Tailwind CSS</code> · <code>Node.js</code> · <code>Express</code>
+  </li>
+  <br />
+  <li>
+    🎟️ <strong><a href="https://quicktik.vercel.app/home" target="_blank">QuickTik - Movie Ticket Booking</a></strong><br>
+    <em>Real-time seat selection and booking interface.</em><br>
+    🛠️ <code>MERN</code> · <code>MongoDB</code> · <code>Bootstrap</code>
+  </li>
+  <br />
+  <li>
+    🎧 <strong><a href="https://xtilestudio.com/" target="_blank">Xtile Studio – Music/Artist Showcase</a></strong><br>
+    <em>Client site highlighting musicians and creative branding.</em><br>
+    🛠️ <code>React</code> · <code>Tailwind CSS</code> · <code>Node.js</code>
+  </li>
+  <br />
+  <li>
+    💻 <strong><a href="https://projs-five.vercel.app/" target="_blank">Pro.js – JS Practice Platform</a></strong><br>
+    <em>Live code editor with modules, challenges, and auto-complete.</em><br>
+    🛠️ <code>Next.js</code> · <code>Tailwind CSS</code> · <code>Figma</code>
+  </li>
+  <br />
+  <li>
+    💼 <strong><a href="https://imfro.vercel.app" target="_blank">Personal Portfolio</a></strong><br>
+    <em>Creative dev/design playground with animated UI and project gallery.</em><br>
+    🛠️ <code>React</code> · <code>Tailwind CSS</code> · <code>Node.js</code> · <code>Figma</code>
+  </li>
+  <br />
+  <li>
+    🏫 <strong>KVAMS – School Finance Platform</strong><br>
+    <em>Smart dashboards and predictive budget insights for schools.</em><br>
+    🛠️ <code>Next.js</code> · <code>MongoDB</code> · <code>Tailwind CSS</code>
+  </li>
+  <br />
+  <li>
+    💸 <strong>MoneyBank – Personal Finance Tracker</strong><br>
+    <em>Track expenses, EMIs, and generate PDF reports.</em><br>
+    🛠️ <code>Next.js</code> · <code>Tailwind CSS</code> · <code>TypeScript</code> · <code>jsPDF</code>
+  </li>
+</ul>
 
 ---
 
