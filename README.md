@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Firoz Al Amin</h1>
 <h3 align="center">Full Stack Developer | Designer | Creative Technologist</h3>
 
+<p align="center">
+  🎨 Passionate about building sleek AI, sleek UIs, smart systems, and expressive designs  
+  <br />
+  🌍 Based in Guwahati, Assam, India
+</p>
 ---
 
 ## 🧠 About Me
@@ -12,11 +17,6 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
 🎓 BCA in Artificial Intelligence & Machine Learning (AIML) — Assam Downtown University  
 📢 I also create music, design brand assets, and develop interactive audio-visual content.
 
-<p align="center">
-  🎨 Passionate about building sleek AI, sleek UIs, smart systems, and expressive designs  
-  <br />
-  🌍 Based in Guwahati, Assam, India
-</p>
 ---
 
 ## 🔗 Connect With Me
