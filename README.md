@@ -129,6 +129,12 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
     <em>Track expenses, EMIs, and generate PDF reports.</em><br>
     🛠️ <code>Next.js</code> · <code>Tailwind CSS</code> · <code>TypeScript</code> · <code>jsPDF</code>
   </li>
+  <br />
+  <li>
+   🔌⚡ <strong><a href="https://github.com/imfirozalamin/Electricity_Bill_Tracker" target="_blank">E-Bill Tracker – Electricity Usage App</strong><br>
+    <em>Track electricity meter readings, analyze consumption, and estimate bills in a modern desktop UI.</em><br>
+    🛠️ <code>Python</code> · <code>PyQt5</code> · <code>Matplotlib</code> · <code>JSON</code> · <code>PyInstaller</code>
+  </li>
 </ul>
 
 ---
