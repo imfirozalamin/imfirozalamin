@@ -149,9 +149,6 @@ My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind 
   <br /><br />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfirozalamin&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=6&card_width=450" alt="Top Languages" width="450"/>
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imfirozalamin&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" width="450"/>
 
 </div>
 
