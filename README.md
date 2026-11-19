@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://firozalamin.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=Design+%E2%86%92+Development+%E2%86%92+Deliver" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=Design+%E2%86%92+Develop+%E2%86%92+Deliver" alt="Typing intro" />
   </a>
 </p>
 
