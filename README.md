@@ -122,54 +122,66 @@ const firoz = {
       <a href="https://www.tik8.in"><img src="https://img.shields.io/badge/Live-tik8.in-06b6d4?style=flat-square" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4>📈 BigMind Consulting</h4>
-      SEO plus a full redevelopment of a legacy website into a modern, high-converting UI.
+      <img src="https://firozalamin.vercel.app/projects/ARCloud.jpg" width="100%" alt="☁️ AR Cloud Records Platform" /><br/>
+      <h4>☁️ AR Cloud Records Platform</h4>
+      End-to-end music release submission, ISRC generation and artist management system.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Client-Web_%2B_SEO-4f46e5?style=flat-square" />
+      <img src="https://img.shields.io/badge/SaaS-Release_Management-4f46e5?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🌿 BivaExport</h4>
-      B2B product catalogue and wholesale inquiry system for eco-friendly jute products.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Client-B2B_Catalogue-4f46e5?style=flat-square" />
-    </td>
     <td width="50%" valign="top">
       <h4>🧪 <a href="https://www.ivylabs.in">ivyLABS Studio</a></h4>
       Creative tech studio syncing design and development: websites, apps and AI automation.
       <br/><br/>
       <a href="https://www.ivylabs.in"><img src="https://img.shields.io/badge/Studio-ivylabs.in-10b981?style=flat-square" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🧰 OmniUtil</h4>
       Free, fully client-side browser tools for images, PDFs and QR codes. Nothing leaves your device.
       <br/><br/>
       <img src="https://img.shields.io/badge/Web_Utility-Free-f59e0b?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
-      <h4>🎬 Arijeet Phukan: Editor Portfolio</h4>
-      Portfolio website for a professional video editor.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Client-Portfolio-4f46e5?style=flat-square" />
-    </td>
   </tr>
 </table>
 
 ### 🏢 Business & Management Systems
 
+Custom internal tools, admin ERPs and workflow systems built to run day-to-day business operations.
 
 <table width="100%">
   <tr>
-    <th width="35%" align="left">System</th>
-    <th width="65%" align="left">What it does</th>
+    <td width="50%" valign="top">
+      <img src="https://firozalamin.vercel.app/projects/HRMA.jpg" width="100%" alt="👥 HRMS & Payroll System" /><br/>
+      <h4>👥 HRMS & Payroll System</h4>
+      Complete HR, attendance and automated payroll processing system.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HR_Tech-1e293b?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://firozalamin.vercel.app/projects/CRM.jpg" width="100%" alt="🤝 Custom CRM System" /><br/>
+      <h4>🤝 Custom CRM System</h4>
+      Tailored client relationship and sales pipeline management system.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SaaS-CRM-1e293b?style=flat-square" />
+    </td>
   </tr>
-  <tr><td>👥 <b>HRMS & Payroll</b></td><td>HR records, attendance and automated payroll processing</td></tr>
-  <tr><td>🤝 <b>Custom CRM</b></td><td>Client relationships and sales pipeline management</td></tr>
-  <tr><td>🧾 <b>Billing & Inventory (PWA)</b></td><td>Retail invoicing, stock management and dues tracking, used by local businesses</td></tr>
-  <tr><td>🏫 <b>School Management System</b></td><td>Live production admin platform for educational institutions</td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://firozalamin.vercel.app/projects/billing.jpg" width="100%" alt="🧾 Billing & Inventory" /><br/>
+      <h4>🧾 Billing & Inventory</h4>
+      PWA for retail invoicing, stock management and dues tracking, used by local businesses.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Management-PWA-1e293b?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://firozalamin.vercel.app/projects/School.jpg" width="100%" alt="🏫 School Management System" /><br/>
+      <h4>🏫 School Management System</h4>
+      Live production administrative platform for educational institutions.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/EdTech-Live-1e293b?style=flat-square" />
+    </td>
+  </tr>
 </table>
 
 ---
