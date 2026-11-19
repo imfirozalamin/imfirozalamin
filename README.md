@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://firozalamin.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=I+build+websites%2C+web+apps+%26+AI+solutions;Design+%E2%86%92+Development+%E2%86%92+Launch;Co-Founder+%40+ivyLABS;Director%2C+Tech+%26+Creative+%40+NeSocial" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=Design+%E2%86%92+Development+%E2%86%92+Launch" alt="Typing intro" />
   </a>
 </p>
 
@@ -206,10 +206,6 @@ Custom internal tools, admin ERPs and workflow systems built to run day-to-day b
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=imfirozalamin&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imfirozalamin&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
