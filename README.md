@@ -1,163 +1,214 @@
-<h1 align="center">Hi 👋, I'm Firoz Al Amin</h1>
-<h3 align="center">Full Stack Developer | Designer | Creative Technologist</h3>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=200&section=header&text=Firoz%20Al%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Solutions%20Architect&descAlignY=58&descSize=16" width="100%" alt="Firoz Al Amin" />
+</p>
 
 <p align="center">
-  🎨 Passionate about building sleek AI, sleek UIs, smart systems, and expressive designs  
-  <br />
-  🌍 Based in Guwahati, Assam, India
+  <a href="https://firozalamin.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=I+build+websites%2C+web+apps+%26+AI+solutions;Design+%E2%86%92+Development+%E2%86%92+Launch;Co-Founder+%40+ivyLABS;Tech+%26+Creative+Lead+%40+NeSocial" alt="Typing intro" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://firozalamin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-firozalamin.vercel.app-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/firozalamin"><img src="https://img.shields.io/badge/LinkedIn-firozalamin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.behance.net/firozalamin"><img src="https://img.shields.io/badge/Behance-firozalamin-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://x.com/firozalamin"><img src="https://img.shields.io/badge/X-@firozalamin-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:firozalamingafarullah@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Guwahati,_Assam,_India-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building_since-2020-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to-Remote_Projects-10b981?style=flat-square" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About
 
-I'm a dedicated and versatile developer with a passion for building efficient, scalable, and user-friendly web applications.  
-My technical expertise includes **React**, **Next.js**, **Node.js**, **Tailwind CSS**, **MongoDB**, and **Python**.
+I build **websites, web apps, digital products and AI solutions** for businesses — covering SEO, UI/UX design, frontend and backend, so clients work with **one person from first design to launch**.
 
-💡 I’m currently working on creative agency tools and performance-focused web platforms.  
-🎓 BCA in Artificial Intelligence & Machine Learning (AIML) — Assam Downtown University  
-📢 I also create music, design brand assets, and develop interactive audio-visual content.
-
----
-
-## 🔗 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-firoz@xtilestudio.com-blue)](mailto:firoz@xtilestudio.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-imfro.vercel.app-black)](https://imfro.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-AXLR8-red?logo=instagram)](https://instagram.com/sexyaxey)
-[![Spotify](https://img.shields.io/badge/Spotify-AXLR8-green?logo=spotify)](https://open.spotify.com/artist/1PYXRYzhdzuunoa3plSsWJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FirozAlAmin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firozalamin/)
+```js
+const firoz = {
+  role:      ["Full-Stack Developer", "UI/UX Designer", "AI Solutions Architect"],
+  now:       ["Co-Founder @ ivyLABS", "Tech & Creative Lead @ NeSocial Entertainment"],
+  focus:     ["AI automation", "Business systems", "High-converting web"],
+  basedIn:   "Guwahati, Assam, India",
+  available: true,
+};
+```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧭 Experience
 
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🧠 AI/ML
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### 🧰 Backend / Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🧪 Testing / DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
-### 🎨 Design & Creative Tools
-
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Ableton Live](https://img.shields.io/badge/Ableton-000000?style=flat-square&logo=ableton&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=can)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
-
-### ⚙️ Other Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+| Role | Company | Period |
+|:--|:--|:--|
+| 🚀 **Co-Founder** | [ivyLABS](https://www.ivylabs.in) | May 2026 — Present |
+| 🎯 **Tech & Creative Lead** | NeSocial Entertainment Pvt. Ltd. | Apr 2026 — Present |
+| 🎨 **Executive Graphic Designer** | Priya Communication | Jun 2025 |
+| 💻 **Full-Stack Developer** | Freelance | 2020 — Present |
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ What I Do
 
-<ul>
-  <li>
-    🎽 <strong><a href="https://tmiri.vercel.app" target="_blank">T'Miri - E-Commerce Store</a></strong><br>
-    <em>Full-featured clothing brand site with cart, filters, and responsive UI.</em><br>
-    🛠️ <code>React</code> · <code>Tailwind CSS</code> · <code>Node.js</code> · <code>Express</code>
-  </li>
-  <br />
-  <li>
-    🎧 <strong><a href="https://xtilestudio.com/" target="_blank">Xtile Studio – Music/Artist Showcase</a></strong><br>
-    <em>Client site highlighting musicians and creative branding.</em><br>
-    🛠️ <code>React</code> · <code>Tailwind CSS</code> · <code>Node.js</code>
-  </li>
-  <br />
-  <li>
-    💻 <strong><a href="https://projs-five.vercel.app/" target="_blank">Pro.js – JS Practice Platform</a></strong><br>
-    <em>Live code editor with modules, challenges, and auto-complete.</em><br>
-    🛠️ <code>Next.js</code> · <code>Tailwind CSS</code> · <code>Figma</code>
-  </li>
-  <br />
-  <li>
-    💼 <strong><a href="https://imfro.vercel.app" target="_blank">Personal Portfolio</a></strong><br>
-    <em>Creative dev/design playground with animated UI and project gallery.</em><br>
-    🛠️ <code>React</code> · <code>Tailwind CSS</code> · <code>Node.js</code> · <code>Figma</code>
-  </li>
-  <br />
-  <li>
-    🏫 <strong>KVAMS – School Finance Platform</strong><br>
-    <em>Smart dashboards and predictive budget insights for schools.</em><br>
-    🛠️ <code>Next.js</code> · <code>MongoDB</code> · <code>Tailwind CSS</code>
-  </li>
-  <br />
-  <li>
-    💸 <strong>MoneyBank – Personal Finance Tracker</strong><br>
-    <em>Track expenses, EMIs, and generate PDF reports.</em><br>
-    🛠️ <code>Next.js</code> · <code>Tailwind CSS</code> · <code>TypeScript</code> · <code>jsPDF</code>
-  </li>
-  <br />
-  <li>
-   🔌⚡ <strong><a href="https://github.com/imfirozalamin/Electricity_Bill_Tracker" target="_blank">E-Bill Tracker – Electricity Usage App</strong><br>
-    <em>Track electricity meter readings, analyze consumption, and estimate bills in a modern desktop UI.</em><br>
-    🛠️ <code>Python</code> · <code>PyQt5</code> · <code>Matplotlib</code> · <code>JSON</code> · <code>PyInstaller</code>
-  </li>
-</ul>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Build</h4>
+      • Full-Stack Development<br/>
+      • Custom Web Apps<br/>
+      • APIs & Backend Systems<br/>
+      • E-commerce Solutions
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Automate & Optimise</h4>
+      • AI Consulting & Automation<br/>
+      • LLM Integration & Chatbots<br/>
+      • Search & AI Optimisation (SEO / GEO)<br/>
+      • UI/UX Design
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎨 Creative Work & Music
+## 🧰 Tech Stack
 
-- 🎶 **AXLR8 – Music Projects**: [Spotify](https://open.spotify.com/artist/1PYXRYzhdzuunoa3plSsWJ)
-- 🖼️ **Design Posters**: Event branding, album covers, digital ads
-- 🎬 **Video/Visuals**: Adobe Suite, Premiere, After Effects
+<p align="center">
+  <b>Development</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,tailwind,css&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Databases · Cloud · Hosting</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,aws,cloudflare,vercel,github&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Design · Productivity</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ae,notion&theme=dark" />
+</p>
+
+<p align="center">
+  <b>AI Tools</b><br/><br/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kiro-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Work
 
-<div align="center">
+### 🌐 Websites & Digital Products
 
-  <img src="https://github-readme-stats.vercel.app/api?username=imfirozalamin&show_icons=true&theme=radical&hide_border=true&border_radius=12&card_width=450" alt="GitHub Stats" width="450"/>
-  <br /><br />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎟️ <a href="https://www.tik8.in">tik8 — Event Ticketing Platform</a></h4>
+      Ticketing website <i>by NeSocial</i> — event listings, ticket sales and the official ticketing partner for live events.
+      <br/><br/>
+      <a href="https://www.tik8.in"><img src="https://img.shields.io/badge/Live-tik8.in-06b6d4?style=flat-square" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 BigMind Consulting</h4>
+      SEO plus a full redevelopment of a legacy website into a modern, high-converting UI.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Client-Web_%2B_SEO-4f46e5?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌿 BivaExport</h4>
+      B2B product catalogue and wholesale inquiry system for eco-friendly jute products.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Client-B2B_Catalogue-4f46e5?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧪 <a href="https://www.ivylabs.in">ivyLABS Studio</a></h4>
+      Creative tech studio syncing design and development — websites, apps and AI automation.
+      <br/><br/>
+      <a href="https://www.ivylabs.in"><img src="https://img.shields.io/badge/Studio-ivylabs.in-10b981?style=flat-square" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧰 OmniUtil</h4>
+      Free, fully client-side browser tools for images, PDFs and QR codes — nothing leaves your device.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Web_Utility-Free-f59e0b?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 Arijeet Phukan — Editor Portfolio</h4>
+      Portfolio website for a professional video editor.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Client-Portfolio-4f46e5?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfirozalamin&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=6&card_width=450" alt="Top Languages" width="450"/>
+### 🏢 Business & Management Systems
 
-</div>
+| System | What it does |
+|:--|:--|
+| 👥 **HRMS & Payroll** | HR records, attendance and automated payroll processing |
+| 🤝 **Custom CRM** | Client relationships and sales-pipeline management |
+| 🧾 **Billing & Inventory (PWA)** | Retail invoicing, stock management and dues tracking — used by local businesses |
+| 🏫 **School Management System** | Live production admin platform for educational institutions |
 
 ---
 
-## 📫 Let's Connect!
+## 🎓 Education & Certifications
+
+**🎓 Master's in Mass Communication & Journalism** — Gauhati University *(Ongoing)*<br/>
+**🎓 BCA (AI & Machine Learning)** — Assam Down Town University *(2025)*
+
+<p>
+  <a href="https://www.learntube.ai/verify/certificate/DJA-B-1-508646-0"><img src="https://img.shields.io/badge/Project_Management-LearnTube-1e293b?style=flat-square" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/NQT4J767E4VV"><img src="https://img.shields.io/badge/Project_Initiation-Google-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/L23K00VPHJ7W"><img src="https://img.shields.io/badge/Python_for_Data_Science-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/certificates/e1aee21f187e"><img src="https://img.shields.io/badge/SQL_(Advanced)-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/certificates/f67dd8720874"><img src="https://img.shields.io/badge/Node.js_(Intermediate)-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/XAENZ44XPNQL"><img src="https://img.shields.io/badge/Data_Structures-UC_San_Diego-0056D2?style=flat-square&logo=coursera&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imfirozalamin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfirozalamin&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imfirozalamin&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imfirozalamin&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🤝 Let's Work Together
+
+<p align="center">
+  Have a website, web app or AI automation in mind? I take on projects end-to-end.<br/><br/>
+  <a href="mailto:firozalamingafarullah@gmail.com"><img src="https://img.shields.io/badge/Start_a_Project-firozalamingafarullah@gmail.com-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info@ivylabs.in"><img src="https://img.shields.io/badge/ivyLABS-info@ivylabs.in-10b981?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imfirozalamin&color=4f46e5&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4f46e5,100:0f172a&height=110&section=footer" width="100%" />
+</p>
