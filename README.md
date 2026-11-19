@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://firozalamin.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=I+build+websites%2C+web+apps+%26+AI+solutions;Design+%E2%86%92+Development+%E2%86%92+Launch;Co-Founder+%40+ivyLABS;Tech+%26+Creative+Lead+%40+NeSocial" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=I+build+websites%2C+web+apps+%26+AI+solutions;Design+%E2%86%92+Development+%E2%86%92+Launch;Co-Founder+%40+ivyLABS;Director%2C+Tech+%26+Creative+%40+NeSocial" alt="Typing intro" />
   </a>
 </p>
 
@@ -27,12 +27,12 @@
 
 ## 👨‍💻 About
 
-I build **websites, web apps, digital products and AI solutions** for businesses — covering SEO, UI/UX design, frontend and backend, so clients work with **one person from first design to launch**.
+I build **websites, web apps, digital products and AI solutions** for businesses, covering SEO, UI/UX design, frontend and backend, so clients work with **one person from first design to launch**.
 
 ```js
 const firoz = {
   role:      ["Full-Stack Developer", "UI/UX Designer", "AI Solutions Architect"],
-  now:       ["Co-Founder @ ivyLABS", "Tech & Creative Lead @ NeSocial Entertainment"],
+  now:       ["Co-Founder @ ivyLABS", "Director, Tech & Creative @ NeSocial Entertainment"],
   focus:     ["AI automation", "Business systems", "High-converting web"],
   basedIn:   "Guwahati, Assam, India",
   available: true,
@@ -43,18 +43,23 @@ const firoz = {
 
 ## 🧭 Experience
 
-| Role | Company | Period |
-|:--|:--|:--|
-| 🚀 **Co-Founder** | [ivyLABS](https://www.ivylabs.in) | May 2026 — Present |
-| 🎯 **Tech & Creative Lead** | NeSocial Entertainment Pvt. Ltd. | Apr 2026 — Present |
-| 🎨 **Executive Graphic Designer** | Priya Communication | Jun 2025 |
-| 💻 **Full-Stack Developer** | Freelance | 2020 — Present |
+<table width="100%">
+  <tr>
+    <th width="35%" align="left">Role</th>
+    <th width="40%" align="left">Company</th>
+    <th width="25%" align="left">Period</th>
+  </tr>
+  <tr><td>🚀 <b>Co-Founder</b></td><td><a href="https://www.ivylabs.in">ivyLABS</a></td><td>May 2026 to Present</td></tr>
+  <tr><td>🎯 <b>Director, Tech & Creative</b></td><td>NeSocial Entertainment Pvt. Ltd.</td><td>Apr 2026 to Present</td></tr>
+  <tr><td>🎨 <b>Executive Graphic Designer</b></td><td>Priya Communication</td><td>Jun 2025</td></tr>
+  <tr><td>💻 <b>Full-Stack Developer</b></td><td>Freelance</td><td>2020 to Present</td></tr>
+</table>
 
 ---
 
 ## 🛠️ What I Do
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>⚡ Build</h4>
@@ -108,11 +113,11 @@ const firoz = {
 
 ### 🌐 Websites & Digital Products
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🎟️ <a href="https://www.tik8.in">tik8 — Event Ticketing Platform</a></h4>
-      Ticketing website <i>by NeSocial</i> — event listings, ticket sales and the official ticketing partner for live events.
+      <h4>🎟️ <a href="https://www.tik8.in">tik8: Event Ticketing Platform</a></h4>
+      Ticketing website <i>by NeSocial</i> with event listings, ticket sales and the official ticketing partner for live events.
       <br/><br/>
       <a href="https://www.tik8.in"><img src="https://img.shields.io/badge/Live-tik8.in-06b6d4?style=flat-square" /></a>
     </td>
@@ -132,7 +137,7 @@ const firoz = {
     </td>
     <td width="50%" valign="top">
       <h4>🧪 <a href="https://www.ivylabs.in">ivyLABS Studio</a></h4>
-      Creative tech studio syncing design and development — websites, apps and AI automation.
+      Creative tech studio syncing design and development: websites, apps and AI automation.
       <br/><br/>
       <a href="https://www.ivylabs.in"><img src="https://img.shields.io/badge/Studio-ivylabs.in-10b981?style=flat-square" /></a>
     </td>
@@ -140,12 +145,12 @@ const firoz = {
   <tr>
     <td width="50%" valign="top">
       <h4>🧰 OmniUtil</h4>
-      Free, fully client-side browser tools for images, PDFs and QR codes — nothing leaves your device.
+      Free, fully client-side browser tools for images, PDFs and QR codes. Nothing leaves your device.
       <br/><br/>
       <img src="https://img.shields.io/badge/Web_Utility-Free-f59e0b?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h4>🎬 Arijeet Phukan — Editor Portfolio</h4>
+      <h4>🎬 Arijeet Phukan: Editor Portfolio</h4>
       Portfolio website for a professional video editor.
       <br/><br/>
       <img src="https://img.shields.io/badge/Client-Portfolio-4f46e5?style=flat-square" />
@@ -155,19 +160,24 @@ const firoz = {
 
 ### 🏢 Business & Management Systems
 
-| System | What it does |
-|:--|:--|
-| 👥 **HRMS & Payroll** | HR records, attendance and automated payroll processing |
-| 🤝 **Custom CRM** | Client relationships and sales-pipeline management |
-| 🧾 **Billing & Inventory (PWA)** | Retail invoicing, stock management and dues tracking — used by local businesses |
-| 🏫 **School Management System** | Live production admin platform for educational institutions |
+
+<table width="100%">
+  <tr>
+    <th width="35%" align="left">System</th>
+    <th width="65%" align="left">What it does</th>
+  </tr>
+  <tr><td>👥 <b>HRMS & Payroll</b></td><td>HR records, attendance and automated payroll processing</td></tr>
+  <tr><td>🤝 <b>Custom CRM</b></td><td>Client relationships and sales pipeline management</td></tr>
+  <tr><td>🧾 <b>Billing & Inventory (PWA)</b></td><td>Retail invoicing, stock management and dues tracking, used by local businesses</td></tr>
+  <tr><td>🏫 <b>School Management System</b></td><td>Live production admin platform for educational institutions</td></tr>
+</table>
 
 ---
 
 ## 🎓 Education & Certifications
 
-**🎓 Master's in Mass Communication & Journalism** — Gauhati University *(Ongoing)*<br/>
-**🎓 BCA (AI & Machine Learning)** — Assam Down Town University *(2025)*
+**🎓 Master's in Mass Communication & Journalism**, Gauhati University *(Ongoing)*<br/>
+**🎓 BCA (AI & Machine Learning)**, Assam Down Town University *(2025)*
 
 <p>
   <a href="https://www.learntube.ai/verify/certificate/DJA-B-1-508646-0"><img src="https://img.shields.io/badge/Project_Management-LearnTube-1e293b?style=flat-square" /></a>
